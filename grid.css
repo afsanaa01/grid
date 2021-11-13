@@ -1,0 +1,117 @@
+[class*=col-]{
+    float: left;
+}
+.col-1{
+    width: 5.55%;
+}
+.col-2{
+    width: 11.11%;
+}
+.col-3{
+    width: 16.66%;
+}
+.col-4{
+    width: 22.22%;
+}
+.col-5{
+    width: 27.77%;
+}
+.col-6{
+    width: 33.33%;
+}
+.col-7{
+    width: 38.88%;
+}
+.col-8{
+    width: 44.44%;
+}
+.col-9{
+    width: 50%;
+}
+.col-10{
+    width: 55.55%;
+}
+.col-11{
+    width: 61.11%;
+}
+.col-12{
+    width: 66.66%;
+}
+.col-13{
+    width: 72.22%;
+}
+.col-14{
+    width: 77.77%;
+}
+.col-15{
+    width: 83.33%;
+}
+.col-16{
+    width: 88.88%;
+}
+.col-17{
+    width: 94.44%;
+}
+.col-18{
+    width: 100%;
+}
+.container{
+    width: 1300px;
+    max-width: 100%;
+    margin: 0 auto;
+}
+.col-offset-1{
+    width: 5.55%;
+}
+.col-offset-2{
+    width: 11.11%;
+}
+.col-offset-3{
+    width: 16.66%;
+}
+.col-offset-4{
+    width: 22.22%;
+}
+.col-offset-5{
+    width: 27.77%;
+}
+.col-offset-6{
+    width: 33.33%;
+}
+.col-offset-7{
+    width: 38.88%;
+}
+.col-offset-8{
+    width: 44.44%;
+}
+.col-offset-9{
+    width: 50%;
+}
+.col-offset-10{
+    width: 55.55%;
+}
+.col-offset-11{
+    width: 61.11%;
+}
+.col-offset-12{
+    width: 66.66%;
+}
+.col-offset-13{
+    width: 72.22%;
+}
+.col-offset-14{
+    width: 77.77%;
+}
+.col-offset-15{
+    width: 83.33%;
+}
+.col-offset-16{
+    width: 88.88%;
+}
+.col-offset-17{
+    width: 94.44%;
+}
+.col-offset-18{
+    width: 100%;
+}
+

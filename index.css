@@ -1,0 +1,21 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.pink{
+    background-color: plum;
+    height: 300px;
+}
+.blue{
+    background-color:steelblue;
+    height: 300px;
+}
+.yellow{
+    background-color:yellow;
+    height: 300px;
+}
+.grey{
+    background-color:slategrey;
+    height: 300px;
+}
